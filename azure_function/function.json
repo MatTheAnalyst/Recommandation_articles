@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "type": "blob",
+      "direction": "in",
+      "name": "Azure subscription 1",
+      "path": "recommendation-app/articles_clients.csv",
+      "connection": "openclassrooms8421_STORAGE"
+    }
+  ]
+}
